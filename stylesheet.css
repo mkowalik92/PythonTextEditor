@@ -1,0 +1,17 @@
+textarea {
+  font-family: Consolas;
+  outline: none;
+  tab-size: 4;
+}
+
+#textarea_line_numbers {
+  height: 300px;
+  width: 20px;
+  resize: none;
+  overflow: hidden;
+}
+
+#textarea_code {
+  height: 300px;
+  width: 600px;
+}
